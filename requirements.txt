@@ -1,0 +1,12 @@
+attrs==24.2.0
+cattrs==24.1.0
+coremltools==7.2
+mpmath==1.3.0
+numpy==1.26.4
+packaging==24.1
+pillow==10.4.0
+protobuf==3.20.3
+pyaml==24.7.0
+PyYAML==6.0.2
+sympy==1.13.2
+tqdm==4.66.5
